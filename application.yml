@@ -7,7 +7,7 @@ management:
   endpoint:
     web:
       exposure:
-        include: health,
+        include: health
    endpoints:
      
   
