@@ -1,0 +1,7 @@
+global:
+  message: Welcome to MS Learing
+logging:
+  level:
+    root: INFO
+management:
+  
