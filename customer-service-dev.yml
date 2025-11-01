@@ -1,7 +1,7 @@
 global:
   message: Welcome to customer service dev env
 server:
-  port: 8081
+  port: 8082
 message: Hellow fro Dev!
 spring: 
   datasource:
