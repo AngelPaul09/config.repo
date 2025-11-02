@@ -7,6 +7,9 @@ management:
   endpoints:
     web:
       exposure:
-        include: health,info,env,configprops
+        include: health,info,refresh
+  endpoint:
+    health:
+      show-details: always
      
   
