@@ -4,10 +4,9 @@ logging:
   level:
     root: INFO
 management:
-  endpoint:
+  endpoints:
     web:
       exposure:
-        include: health
-   endpoints:
+        include: health,info,env,configprops
      
   
